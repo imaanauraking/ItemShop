@@ -1,12 +1,12 @@
-CID_258_Athena_Commando_F_FuzzyBearHalloween, 1500
-CID_249_Athena_Commando_F_BlackWidow, 2000
+CID_625_Athena_Commando_F_PinkTrooper, 1500
+CID_703_Athena_Commando_M_Cyclone, 0
 CID_246_Athena_Commando_F_Grave, 1200
 na
 na
 na
-EID_Zombie, 800
-Pickaxe_ID_111_BlackWidow, 800
-Pickaxe_ID_140_StreetGoth, 800
+EID_CrabDance, 800
+Pickaxe_ID_376_FNCS, 2000
+Pickaxe_ID_014_WinterCamo, 500
 Glider_ID_084_Plague, 800
-Umbrella_Season_06, 200
-CID_255_Athena_Commando_F_HalloweenBunny, 800
+Umbrella_Snowflake, 200
+CID_673_Athena_Commando_F_ArcticCamo_Slate, 800
